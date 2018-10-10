@@ -1,3 +1,4 @@
 Jessica Nguyen
 https://github.com/j76n/gitTest2526.git
-https://dashboard.heroku.com/apps/gitjessica/
+https://gitjessica.herokuapp.com/
+
