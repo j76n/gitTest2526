@@ -1,0 +1,9 @@
+Q1 Setup
+1. cd ~/Desktop
+   mkdir Test2
+
+4. git clone https://github.com/j76n/gitTest2526.git
+5. mv Test2 gitTest2526 
+6.
+
+
