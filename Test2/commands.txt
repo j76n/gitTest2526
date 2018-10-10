@@ -41,5 +41,8 @@ git push origin master
 13. git tag ver1.01
 git push origin ver1.01
 
+mkdir Q2
+cp -r gitTest2526 Q2
+
 
 
