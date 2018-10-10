@@ -4,6 +4,10 @@ Q1 Setup
 
 4. git clone https://github.com/j76n/gitTest2526.git
 5. mv Test2 gitTest2526 
-6.
+6.git add test2
+ git commit -m "added new file"
+ git push origin 
+7. nano repo.txt
+8. 
 
 
