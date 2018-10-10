@@ -26,11 +26,11 @@ git push origin ver1.00
 grep "myhtml" myfile.bak
 6.cd ~/Desktop/gitTest2526
 git push origin special_feature
-7.grep "myjs" gitTest2526 > index.js
+7.grep "myjs" ~/Desktop/assets/myfile.bak > index.js
 8. git add index.js
 git commit -m "added js file"
 git push origin special_feature
-9. grep "mycss" gitTest2526 > index.css
+9.  grep "mycss" ~/Desktop//assets/myfile.bak > index.css
 10. git add index.css
 git commit -m "added css file"
 git push origin special_feature
@@ -41,7 +41,7 @@ git push origin master
 13. git tag ver1.01
 git push origin ver1.01
 
-mkdir Q2
+
 cp -r gitTest2526 Q2
 
 
