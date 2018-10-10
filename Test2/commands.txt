@@ -8,6 +8,38 @@ Q1 Setup
  git commit -m "added new file"
  git push origin 
 7. nano repo.txt
-8. 
+8. git add repo.txt
+git commit -m "added txt file"
+ git push origin
+9. nano index.html
+11. git add index.html
+git commit -m "added index.html"
+git push origin
+
+
+Q2
+1. git tag ver1.00
+git push origin ver1.00
+2. git branch special_feature
+3. git checkout special_feature
+5.  cd ~/Desktop/assets
+grep "myhtml" myfile.bak
+6.cd ~/Desktop/gitTest2526
+git push origin special_feature
+7.grep "myjs" gitTest2526 > index.js
+8. git add index.js
+git commit -m "added js file"
+git push origin special_feature
+9. grep "mycss" gitTest2526 > index.css
+10. git add index.css
+git commit -m "added css file"
+git push origin special_feature
+11.git checkout master
+git merge special_feature
+12. git commit "merged" 
+git push origin master
+13. git tag ver1.01
+git push origin ver1.01
+
 
 
